@@ -1,4 +1,4 @@
-<h1 align= "center"><b>HELLO OPEN SOURCE</b></h1>
+<h1 align= "center"><b>OPEN SOURCE</b></h1>
 
 
 
