@@ -5,8 +5,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Pad0y&theme=radical)
 
 
-
-
 <h1 align= "center"><b>⚙️What I Use</b></h1>
 
 <table bgcolor="E1FFFF">
@@ -49,8 +47,5 @@
     </tr>
   </tbody>
 </table>
+
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
-
-
-
-
