@@ -6,7 +6,7 @@
 
 <h1 align= "center"><b>⚙️What I Use</b></h1>
 
-<table>
+<table align= "center">
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
