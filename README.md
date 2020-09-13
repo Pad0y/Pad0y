@@ -1,9 +1,11 @@
 <h1 align= "left"><b>🔱Welcome to Pad0y's Home</b></h1>
 
-![](https://github-readme-stats.vercel.app/api?username=Pad0y&show_icons=true&title_color=&icon_color=4B0082&text_color=000000&bg_color=)
+![](https://github-readme-stats.vercel.app/api?username=Pad0y&theme=radical)
+
 
 <h1 align= "left"><b>⚙️What I Use</b></h1>
-<table align= "left">
+
+<table>
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
@@ -11,8 +13,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
-          <span><strong>Linux</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
+          <span><strong>Debian</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/debian.svg">
       </td>
       <td width="25%" align="center">
           <span><strong>GNU</strong></span><br><br><br>
@@ -43,6 +45,8 @@
     </tr>
   </tbody>
 </table>
+
+
 
 
 
