@@ -2,10 +2,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Pad0y&theme=radical)
 
-
 <h1 align= "left"><b>⚙️What I Use</b></h1>
 
-<table>
+<table bgcolor="E1FFFF">
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
