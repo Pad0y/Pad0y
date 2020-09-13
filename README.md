@@ -1,12 +1,12 @@
-<h1 align= "center"><b>🔱Welcome to Pad0y's Home</b></h1>
-<p align="center">
+<h1 align= "left"><b>🔱Welcome to Pad0y's Home</b></h1>
+<p align="left">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
 </p>
 
-<h1 align= "center"><b>⚙️What I Use</b></h1>
+<h1 align= "left"><b>⚙️What I Use</b></h1>
 
-<table align= "center">
+<table align= "left">
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
