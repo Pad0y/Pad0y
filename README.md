@@ -2,10 +2,17 @@
 
 ![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
 
+<h1 align= "left"><b>🌈My Github Stats</b></h1>
+
 ![](https://github-readme-stats.vercel.app/api?username=Pad0y&theme=radical)
 
 
-<h1 align= "center"><b>⚙️What I Use</b></h1>
+
+
+
+
+
+<h1 align= "left"><b>⚙️What I Use</b></h1>
 
 <table bgcolor="E1FFFF">
   <tbody>
@@ -49,3 +56,7 @@
 </table>
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
+
+
+
+
