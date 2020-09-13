@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
 </p>
-
+![](https://github-readme-stats.vercel.app/api?username=Pad0y&show_icons=true&title_color=&icon_color=4B0082&text_color=000000&bg_color=)
 <h1 align= "left"><b>⚙️What I Use</b></h1>
 
 <table align= "left">
